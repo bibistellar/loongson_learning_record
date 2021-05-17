@@ -1,0 +1,4 @@
+Pmon:
+  龙芯官方发布的开发板系统采用“开放源码的Pmon”作为系统BIOS。Pmon是一个兼有BIOS和boot loader功能的开放源码软件。
+  官网说明：http://www.loongnix.org/index.php/PMON
+  
